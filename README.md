@@ -1,7 +1,10 @@
 # Comparing-Structural-Coverage-Tools
 
 Introduction:
-This project aims to analyse each subject program with different structural coverage tools and compare them differently. To run the project, I selected Java to construct the project because it works across multiple platforms and has adequate test coverage tools. I executed each subject program with the test suite and measured the structural coverage. After gathering all the data using the tools, I obtained the various coverage reports for each subject programme and compared and explained their quantitative and qualitative differences. Moreover, I explained why the coverage reports differ for each subject program when changing coverage tools and the understanding of each coverage.
+• Analyzed each subject program with different structural coverage tools and compared them differently
+• Executed each subject program with the test suite and measured the structural coverage
+• Gathered all the data using the tools, obtained the various coverage reports for each subject programme and compared and explained their quantitative and qualitative differences.
+• Explained why the coverage reports differ for each subject program when changing coverage tools and the understanding of each coverage.
 Programming Language: Java
 
 Coverage Tools:
