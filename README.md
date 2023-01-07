@@ -1,10 +1,10 @@
 # Comparing-Structural-Coverage-Tools
 
-Introduction:
-• Analyzed each subject program with different structural coverage tools and compared them differently
-• Executed each subject program with the test suite and measured the structural coverage
-• Gathered all the data using the tools, obtained the various coverage reports for each subject programme and compared and explained their quantitative and qualitative differences.
-• Explained why the coverage reports differ for each subject program when changing coverage tools and the understanding of each coverage.
+Introduction: <br>
+• Analyzed each subject program with different structural coverage tools and compared them differently<br>
+• Executed each subject program with the test suite and measured the structural coverage <br>
+• Gathered all the data using the tools, obtained the various coverage reports for each subject programme and compared and explained their quantitative and qualitative differences <br>
+• Explained why the coverage reports differ for each subject program when changing coverage tools and the understanding of each coverage <br>
 Programming Language: Java
 
 Coverage Tools:
@@ -21,7 +21,7 @@ Subject Program Names:
 5. Jacoco
 
 
-Conclusion:
+Conclusion: <br>
 From doing, code coverage, we can see which parts are missing in the code coverage, and it helps the developers to write better test cases by seeing its report.
 
 
