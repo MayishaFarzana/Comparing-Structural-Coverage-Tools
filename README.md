@@ -1,5 +1,8 @@
 # Comparing-Structural-Coverage-Tools
 
+Project Video Link: <br>
+https://youtu.be/5lZ8CaoZ0qQ
+
 Introduction: <br>
 • Analyzed each subject program with different structural coverage tools and compared them differently<br>
 • Executed each subject program with the test suite and measured the structural coverage <br>
